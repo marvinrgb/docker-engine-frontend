@@ -1,0 +1,4 @@
+- liste kann anders aussehen (tabelle, kasten, horizontal scrollbar, ganz egal)
+- /images funktionalität nen container zu erstellen direkt
+- /container button um aus image container zu erstellen
+- bsp. menü, kann anders sein
